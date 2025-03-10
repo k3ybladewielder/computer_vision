@@ -15,5 +15,5 @@ Este repositório possui anotações, resumos, fichamentos e insights pessoais s
 
 # Resources 🧰
 
-## Licence
+# Licence
 - **Attribution-NonCommercial-ShareAlike 4.0 International** [**CC BY-NC-SA**](https://github.com/k3ybladewielder/computer_vision/blob/main/LICENSE)
