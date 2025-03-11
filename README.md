@@ -7,6 +7,7 @@ Este repositório possui anotações, resumos, fichamentos e insights pessoais s
 - FORSYTH, D. A.; PONCE, J. **Computer Vision: A Modern Approach**. Pearson Education, 2003.
   
 # Courses 🧑‍💻
+- [**HuggingFace's Community Computer Vision Course**](https://huggingface.co/learn/computer-vision-course/unit0/welcome/welcome)
 - [**MIT 6.S094: Computer Vision, Fall 2020**](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O)
 - [**MIT 6.S094: Computer Vision, by Lex Friedman**](https://www.youtube.com/playlist?list=PLP83eeyqwmVR7gsJyZ0WZby7bYZ0yLpZ8)
 - [**Introdução à Visão Computacional, por Programação Dinâmica**](https://www.youtube.com/playlist?list=PL5TJqBvpXQv729nb3vdeP4E87hLark5q9)
